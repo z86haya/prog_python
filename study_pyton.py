@@ -5,6 +5,7 @@ def annou(f):
         print("dpne")
     return wr
     
+    #dekorator
 @annou   
 def helo():
     print("hrello")
